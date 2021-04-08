@@ -1,0 +1,14 @@
+.app {
+  background-image: url('/src/Contents/Scarif.jpg');
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+}
+.search-bar {
+  margin: auto;
+  width: 50%;
+  border: 3px solid yellow;
+  padding: 10px;
+}
+
