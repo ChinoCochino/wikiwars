@@ -1,4 +1,11 @@
 .label-search {
-    text-align: end;
+    align-content: 50px;
+    color: white;
+    padding: 0% 30% 0% 30%;
 }
+
+.padding-container {
+    padding: 0% 20% 0% 20%;
+}
+
 
